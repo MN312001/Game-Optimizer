@@ -1,4 +1,4 @@
-## Game_Optimizer v1.1
+## Game_Optimizer
 
 ## Mohammad-Ismail
 
