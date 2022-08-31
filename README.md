@@ -1,4 +1,16 @@
-# Game_Optimizer
+## Game_Optimizer v1.1
+
+## Mohammad-Ismail
+
+- Unlock 4 times the device speed without problems Compatible from Android 8 to 12
+
+- Support for Magisk 19+ module updates
+
+- Restored support for Android 8
+
+- This version only supports Magisk and Zygisk (Magisk 19+ and newer).
+
+
 
 - Communication 
 
