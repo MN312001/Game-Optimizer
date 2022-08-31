@@ -1,4 +1,4 @@
-## Game_Optimizer
+## Game-Optimizer
 
 ## Mohammad-Ismail
 
