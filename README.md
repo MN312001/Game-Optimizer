@@ -8,7 +8,7 @@
 
 - Restored support for Android 8
 
-- This version only supports Magisk and Zygisk (Magisk 19+ and newer).
+- This version only supports Magisk and Zygisk (Magisk 20.4+ and newer).
 
 
 
