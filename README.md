@@ -4,7 +4,7 @@
 
 - Unlock 4 times the device speed without problems Compatible from Android 8 to 12
 
-- Support for Magisk 19+ module updates
+- Support for Magisk 20.4+ module updates
 
 - Restored support for Android 8
 
