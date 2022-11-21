@@ -11,10 +11,11 @@
 - This version only supports Magisk and Zygisk (Magisk 20.4+ and newer).
 
 
+- Communication
 
-- Communication 
-
+- | [YouTube](https://www.youtube.com/@SY5G) |
 - | [Telegram](https://t.me/MN312001) |
 - | [Facebook](https://www.facebook.com/M.N.312001) |
 - | [Instagram](https://www.instagram.com/mn312001) |
-- | [My Telegram Channel](https://t.me/ROOT_MN312001) |
+- | [ROOT ONLINE](https://t.me/ROOT_MN312001) |
+- | [APK Mod Android](https://t.me/APK_MN312001) |
